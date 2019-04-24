@@ -32,7 +32,7 @@ function (error, response, body) {
 }
 
 //Uncomment this line to sending alert email, repeat every minute
-setInterval(intervalFunc, 60000);
+//setInterval(intervalFunc, 60000);
 
 //var timenow = new Date().toLocaleString();
 //console.log(timenow);
@@ -45,6 +45,33 @@ function (error, response, body) {
   console.log('body:', body); // Print the HTML for the Google homepage.
   console.log('-------------------');
 });
+
+
+//function coba coba
+function writeMsg()
+{
+	//console.log('can\'t stop...');
+	
+	
+	
+	var requestDate = require('request'); 
+	requestDate('http://localhost:2323/get_datetime_now', 
+	function (error, response, body) {
+		
+		var fs = require('fs');
+		
+		var msg = new Date().toLocaleString() + ' Hello content! ' + body + '\n';
+
+		fs.appendFile('Log' + body.substring(0,8) + '.txt', msg , function (err) {
+		  if (err) throw err;
+		  console.log('Saved!');
+		}); 
+		
+	});
+
+}
+setInterval(writeMsg, 1000);
+
 
 
 
