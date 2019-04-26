@@ -60,9 +60,11 @@ function writeMsg()
 		
 		var fs = require('fs');
 		
-		var msg = new Date().toLocaleString() + ' Hello content! ' + body + '\n';
-
-		fs.appendFile('Log' + body.substring(0,8) + '.txt', msg , function (err) {
+		var msg = '[' + new Date().toLocaleString() + ']' + ' ' + '[coba.js]: ' + 'Date: ' + body + '\n';
+		
+		var datetime = new Date().toLocaleString();
+		
+		fs.appendFile('Log' + '.txt', msg , function (err) {
 		  if (err) throw err;
 		  console.log('Saved!');
 		}); 
