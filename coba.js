@@ -52,8 +52,6 @@ function writeMsg()
 {
 	//console.log('can\'t stop...');
 	
-	
-	
 	var requestDate = require('request'); 
 	requestDate('http://localhost:2323/get_datetime_now', 
 	function (error, response, body) {
@@ -67,12 +65,36 @@ function writeMsg()
 		fs.appendFile('Log' + '.txt', msg , function (err) {
 		  if (err) throw err;
 		  console.log('Saved!');
-		}); 
-		
+		}); 	
+	});
+}
+//setInterval(writeMsg, 1000);
+
+//kahfi 30 april 2019
+var param1 = '1';
+
+setInterval(getResentTimeEmail, 1000);
+
+function getResentTimeEmail()
+{
+	//console.log(param1);
+	
+	request('http://localhost:2323/get_status_email_nac', 
+	
+	function (error, response, body) {
+	  console.log('error:', error); // Print the error if one occurred
+	  console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
+	  //console.log('body:', body); // Print the HTML for the Google homepage.
+
+	var obj = JSON.parse(body);
+	//console.log(typeof(obj));
+	console.log('-------------------');
+	console.log('status_interval_nac_host_conn ' + obj.status_interval_nac_host_conn);
+	console.log('status_interval_trx_timeout ' + obj.status_interval_trx_timeout);
+	console.log('-------------------');
 	});
 
 }
-setInterval(writeMsg, 1000);
 
 
 
