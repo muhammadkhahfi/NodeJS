@@ -1,3 +1,4 @@
+/*
 var request = require('request');
 //request('http://localhost:2323/check_nac_status/20190313163651', 
 request('http://localhost:2323/get_status_email_nac', 
@@ -13,7 +14,7 @@ console.log('NAC Host Conn ' + obj.nac_host_conn[1].FSTATUS_EMAIL);
 console.log('TRX Timeout ' + obj.trx_timeout[2].FSTATUS_EMAIL);
 console.log('-------------------');
 });
-
+*/
 
 //TAMBAHAN
 function intervalFunc() {
@@ -68,12 +69,12 @@ function writeMsg()
 		}); 	
 	});
 }
-//setInterval(writeMsg, 1000);
+setInterval(writeMsg, 1000);
 
 //kahfi 30 april 2019
 var param1 = '1';
 
-setInterval(getResentTimeEmail, 1000);
+//setInterval(getResentTimeEmail, 1000);
 
 function getResentTimeEmail()
 {

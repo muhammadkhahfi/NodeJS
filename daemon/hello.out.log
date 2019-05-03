@@ -1,0 +1,255 @@
+Saved!
+error: null
+statusCode: 200
+-------------------
+status_interval_nac_host_conn 3
+status_interval_trx_timeout 10
+-------------------
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+error: null
+statusCode: 200
+-------------------
+status_interval_nac_host_conn 10
+status_interval_trx_timeout 10
+-------------------
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+error: null
+statusCode: 200
+-------------------
+status_interval_nac_host_conn 10
+status_interval_trx_timeout 10
+-------------------
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+error: null
+statusCode: 200
+-------------------
+status_interval_nac_host_conn 10
+status_interval_trx_timeout 10
+-------------------
+Saved!
+Saved!
+Saved!
+Saved!
+error: null
+statusCode: 200
+-------------------
+status_interval_nac_host_conn 5
+status_interval_trx_timeout 10
+-------------------
+Saved!
+Saved!
+Saved!
+Saved!
+error: null
+statusCode: 200
+-------------------
+status_interval_nac_host_conn 5
+status_interval_trx_timeout 10
+-------------------
+Saved!
+Saved!
+error: { Error: connect ECONNREFUSED 127.0.0.1:2323
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 2323 }
+statusCode: undefined
+error: { Error: connect ECONNREFUSED 127.0.0.1:2323
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 2323 }
+statusCode: undefined
+error: { Error: connect ECONNREFUSED 127.0.0.1:2323
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 2323 }
+statusCode: undefined
+error: null
+statusCode: 200
+-------------------
+status_interval_nac_host_conn 10
+status_interval_trx_timeout 10
+-------------------
+interval: 10000
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+error: null
+statusCode: 200
+-------------------
+status_interval_nac_host_conn 5
+status_interval_trx_timeout 10
+-------------------
+interval: 5000
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+error: null
+statusCode: 200
+-------------------
+status_interval_nac_host_conn 10
+status_interval_trx_timeout 10
+-------------------
+interval: 10000
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+error: null
+statusCode: 200
+-------------------
+status_interval_nac_host_conn 3
+status_interval_trx_timeout 10
+-------------------
+interval: 3000
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+Saved!
+error: { Error: connect ECONNREFUSED 127.0.0.1:2323
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 2323 }
+statusCode: undefined
+error: { Error: connect ECONNREFUSED 127.0.0.1:2323
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 2323 }
+statusCode: undefined
+error: { Error: connect ECONNREFUSED 127.0.0.1:2323
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 2323 }
+statusCode: undefined

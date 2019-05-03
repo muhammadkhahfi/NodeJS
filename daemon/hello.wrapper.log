@@ -1,0 +1,164 @@
+2019-05-02 14:24:01 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file d:\github\nodejs\hello.js --log "Hello wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-02 14:24:01 - Started 9092
+2019-05-02 14:24:59 - Stopping hello.exe
+2019-05-02 14:24:59 - ProcessKill 9092
+2019-05-02 14:25:00 - Found child process: 10072 Name: conhost.exe
+2019-05-02 14:25:00 - Found child process: 6504 Name: node.exe
+2019-05-02 14:25:00 - Stopping process 10072
+2019-05-02 14:25:00 - Send SIGINT 10072
+2019-05-02 14:25:00 - SIGINT to 10072 failed - Killing as fallback
+2019-05-02 14:25:00 - Stopping process 6504
+2019-05-02 14:25:00 - Send SIGINT 6504
+2019-05-02 14:25:00 - SIGINT to 6504 failed - Killing as fallback
+2019-05-02 14:25:00 - Stopping process 9092
+2019-05-02 14:25:00 - Send SIGINT 9092
+2019-05-02 14:25:00 - SIGINT to 9092 failed - Killing as fallback
+2019-05-02 14:25:00 - Finished hello.exe
+2019-05-02 14:25:01 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file d:\github\nodejs\hello.js --log "Hello wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-02 14:25:01 - Started 16400
+2019-05-02 14:26:23 - Stopping hello.exe
+2019-05-02 14:26:23 - ProcessKill 16400
+2019-05-02 14:26:23 - Found child process: 16536 Name: conhost.exe
+2019-05-02 14:26:23 - Found child process: 3608 Name: node.exe
+2019-05-02 14:26:23 - Stopping process 16536
+2019-05-02 14:26:23 - Send SIGINT 16536
+2019-05-02 14:26:23 - SIGINT to 16536 failed - Killing as fallback
+2019-05-02 14:26:23 - Stopping process 3608
+2019-05-02 14:26:23 - Send SIGINT 3608
+2019-05-02 14:26:23 - SIGINT to 3608 failed - Killing as fallback
+2019-05-02 14:26:23 - Stopping process 16400
+2019-05-02 14:26:23 - Send SIGINT 16400
+2019-05-02 14:26:23 - SIGINT to 16400 failed - Killing as fallback
+2019-05-02 14:26:23 - Finished hello.exe
+2019-05-02 14:31:25 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file d:\github\nodejs\hello.js --log "Hello wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-02 14:31:25 - Started 9076
+2019-05-02 14:32:20 - Stopping hello.exe
+2019-05-02 14:32:20 - ProcessKill 9076
+2019-05-02 14:32:20 - Found child process: 4828 Name: conhost.exe
+2019-05-02 14:32:20 - Found child process: 13040 Name: node.exe
+2019-05-02 14:32:20 - Stopping process 4828
+2019-05-02 14:32:20 - Send SIGINT 4828
+2019-05-02 14:32:20 - SIGINT to 4828 failed - Killing as fallback
+2019-05-02 14:32:21 - Stopping process 13040
+2019-05-02 14:32:21 - Send SIGINT 13040
+2019-05-02 14:32:21 - SIGINT to 13040 failed - Killing as fallback
+2019-05-02 14:32:21 - Stopping process 9076
+2019-05-02 14:32:21 - Send SIGINT 9076
+2019-05-02 14:32:21 - SIGINT to 9076 failed - Killing as fallback
+2019-05-02 14:32:21 - Finished hello.exe
+2019-05-02 16:22:09 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file d:\github\nodejs\hello.js --log "Hello wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-02 16:22:10 - Started 18180
+2019-05-02 16:22:47 - Stopping hello.exe
+2019-05-02 16:22:47 - ProcessKill 18180
+2019-05-02 16:22:48 - Found child process: 17148 Name: conhost.exe
+2019-05-02 16:22:48 - Found child process: 8400 Name: node.exe
+2019-05-02 16:22:48 - Stopping process 17148
+2019-05-02 16:22:48 - Send SIGINT 17148
+2019-05-02 16:22:48 - SIGINT to 17148 failed - Killing as fallback
+2019-05-02 16:22:48 - Stopping process 8400
+2019-05-02 16:22:48 - Send SIGINT 8400
+2019-05-02 16:22:48 - SIGINT to 8400 failed - Killing as fallback
+2019-05-02 16:22:48 - Stopping process 18180
+2019-05-02 16:22:48 - Send SIGINT 18180
+2019-05-02 16:22:48 - SIGINT to 18180 failed - Killing as fallback
+2019-05-02 16:22:48 - Finished hello.exe
+2019-05-02 16:24:39 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file d:\github\nodejs\hello.js --log "Hello wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-02 16:24:39 - Started 10500
+2019-05-02 16:25:01 - Stopping hello.exe
+2019-05-02 16:25:01 - ProcessKill 10500
+2019-05-02 16:25:01 - Found child process: 7552 Name: conhost.exe
+2019-05-02 16:25:01 - Found child process: 5876 Name: node.exe
+2019-05-02 16:25:01 - Stopping process 7552
+2019-05-02 16:25:01 - Send SIGINT 7552
+2019-05-02 16:25:02 - SIGINT to 7552 failed - Killing as fallback
+2019-05-02 16:25:02 - Stopping process 5876
+2019-05-02 16:25:02 - Send SIGINT 5876
+2019-05-02 16:25:02 - SIGINT to 5876 failed - Killing as fallback
+2019-05-02 16:25:02 - Stopping process 10500
+2019-05-02 16:25:02 - Send SIGINT 10500
+2019-05-02 16:25:02 - SIGINT to 10500 failed - Killing as fallback
+2019-05-02 16:25:02 - Finished hello.exe
+2019-05-02 16:34:53 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file d:\github\nodejs\hello.js --log "Hello wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-02 16:34:53 - Started 15452
+2019-05-02 16:35:10 - Stopping hello.exe
+2019-05-02 16:35:10 - ProcessKill 15452
+2019-05-02 16:35:11 - Found child process: 8952 Name: conhost.exe
+2019-05-02 16:35:11 - Found child process: 7812 Name: node.exe
+2019-05-02 16:35:11 - Stopping process 8952
+2019-05-02 16:35:11 - Send SIGINT 8952
+2019-05-02 16:35:11 - SIGINT to 8952 failed - Killing as fallback
+2019-05-02 16:35:11 - Stopping process 7812
+2019-05-02 16:35:11 - Send SIGINT 7812
+2019-05-02 16:35:11 - SIGINT to 7812 failed - Killing as fallback
+2019-05-02 16:35:11 - Stopping process 15452
+2019-05-02 16:35:11 - Send SIGINT 15452
+2019-05-02 16:35:11 - SIGINT to 15452 failed - Killing as fallback
+2019-05-02 16:35:11 - Finished hello.exe
+2019-05-03 09:46:39 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file d:\github\nodejs\hello.js --log "Hello wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-03 09:46:39 - Started 7556
+2019-05-03 09:51:04 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file d:\github\nodejs\hello.js --log "Hello wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-03 09:51:04 - Started 6140
+2019-05-03 09:54:10 - Stopping hello.exe
+2019-05-03 09:54:10 - ProcessKill 6140
+2019-05-03 09:54:10 - Found child process: 17056 Name: conhost.exe
+2019-05-03 09:54:10 - Found child process: 13656 Name: node.exe
+2019-05-03 09:54:10 - Stopping process 17056
+2019-05-03 09:54:10 - Send SIGINT 17056
+2019-05-03 09:54:10 - SIGINT to 17056 failed - Killing as fallback
+2019-05-03 09:54:10 - Stopping process 13656
+2019-05-03 09:54:10 - Send SIGINT 13656
+2019-05-03 09:54:10 - SIGINT to 13656 failed - Killing as fallback
+2019-05-03 09:54:10 - Stopping process 6140
+2019-05-03 09:54:10 - Send SIGINT 6140
+2019-05-03 09:54:10 - SIGINT to 6140 failed - Killing as fallback
+2019-05-03 09:54:10 - Finished hello.exe
+2019-05-03 09:56:46 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file d:\github\nodejs\hello.js --log "Hello wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-03 09:56:46 - Started 4732
+2019-05-03 09:57:40 - Stopping hello.exe
+2019-05-03 09:57:40 - ProcessKill 4732
+2019-05-03 09:57:40 - Found child process: 13816 Name: conhost.exe
+2019-05-03 09:57:40 - Found child process: 17436 Name: node.exe
+2019-05-03 09:57:41 - Stopping process 13816
+2019-05-03 09:57:41 - Send SIGINT 13816
+2019-05-03 09:57:41 - SIGINT to 13816 failed - Killing as fallback
+2019-05-03 09:57:41 - Stopping process 17436
+2019-05-03 09:57:41 - Send SIGINT 17436
+2019-05-03 09:57:41 - SIGINT to 17436 failed - Killing as fallback
+2019-05-03 09:57:41 - Stopping process 4732
+2019-05-03 09:57:41 - Send SIGINT 4732
+2019-05-03 09:57:41 - SIGINT to 4732 failed - Killing as fallback
+2019-05-03 09:57:41 - Finished hello.exe
+2019-05-03 09:57:43 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file d:\github\nodejs\hello.js --log "Hello wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-03 09:57:43 - Started 13384
+2019-05-03 10:00:50 - Stopping hello.exe
+2019-05-03 10:00:50 - ProcessKill 13384
+2019-05-03 10:00:50 - Found child process: 18088 Name: conhost.exe
+2019-05-03 10:00:50 - Found child process: 12624 Name: node.exe
+2019-05-03 10:00:50 - Stopping process 18088
+2019-05-03 10:00:50 - Send SIGINT 18088
+2019-05-03 10:00:50 - SIGINT to 18088 failed - Killing as fallback
+2019-05-03 10:00:51 - Stopping process 12624
+2019-05-03 10:00:51 - Send SIGINT 12624
+2019-05-03 10:00:51 - SIGINT to 12624 failed - Killing as fallback
+2019-05-03 10:00:51 - Stopping process 13384
+2019-05-03 10:00:51 - Send SIGINT 13384
+2019-05-03 10:00:51 - SIGINT to 13384 failed - Killing as fallback
+2019-05-03 10:00:51 - Finished hello.exe
+2019-05-03 10:00:53 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file d:\github\nodejs\hello.js --log "Hello wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-03 10:00:53 - Started 17380
+2019-05-03 10:03:38 - Stopping hello.exe
+2019-05-03 10:03:38 - ProcessKill 17380
+2019-05-03 10:03:38 - Found child process: 7396 Name: conhost.exe
+2019-05-03 10:03:38 - Found child process: 19740 Name: node.exe
+2019-05-03 10:03:38 - Stopping process 7396
+2019-05-03 10:03:38 - Send SIGINT 7396
+2019-05-03 10:03:38 - SIGINT to 7396 failed - Killing as fallback
+2019-05-03 10:03:39 - Stopping process 19740
+2019-05-03 10:03:39 - Send SIGINT 19740
+2019-05-03 10:03:39 - SIGINT to 19740 failed - Killing as fallback
+2019-05-03 10:03:39 - Stopping process 17380
+2019-05-03 10:03:39 - Send SIGINT 17380
+2019-05-03 10:03:39 - SIGINT to 17380 failed - Killing as fallback
+2019-05-03 10:03:39 - Finished hello.exe
+2019-05-03 10:17:17 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file d:\github\nodejs\hello.js --log "Hello wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-03 10:17:17 - Started 7296
