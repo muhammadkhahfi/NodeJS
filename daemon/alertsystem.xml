@@ -1,15 +1,15 @@
 <service>
-	<id>hello.exe</id>
-	<name>Hello</name>
-	<description>nodejs service</description>
+	<id>alertsystem.exe</id>
+	<name>AlertSystem</name>
+	<description>Alert email for sending NAC Status</description>
 	<executable>C:\Program Files\nodejs\node.exe</executable>
 	<logmode>rotate</logmode>
 	<argument>--harmony</argument>
 	<argument>C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js</argument>
 	<argument>--file</argument>
-	<argument>d:\github\nodejs\hello.js</argument>
+	<argument>D:\Github\NodeJS\alertsystem</argument>
 	<argument>--log</argument>
-	<argument>Hello wrapper</argument>
+	<argument>AlertSystem wrapper</argument>
 	<argument>--grow</argument>
 	<argument>0.25</argument>
 	<argument>--wait</argument>

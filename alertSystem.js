@@ -76,7 +76,7 @@ function checkNACHostConn(interval)
 function checkTrxTimeout(interval)
 {
 	var request= require('request'); 
-	var requestString = 'http://localhost:2323/get_node_trx_timeout';
+	var requestString = 'http://localhost:2323/get_nac_trx_timeout';
 	request(requestString, 
 	function (error, response, body) {
 		
@@ -137,6 +137,24 @@ request(requestString,
 	  if (err) throw err;
 	  //console.log('Log saved!');
 	});
+	
+	msg='[' + new Date().toLocaleString() + ']' + ' ' + '[alert.js]: ' + 'Request: ' + requestString + '\n';
+	fs.appendFile('Log' + today +'.log', msg , function (err) {
+	  if (err) throw err;
+	  //console.log('Log saved!');
+	});
+	
+	msg='[' + new Date().toLocaleString() + ']' + ' ' + '[alert.js]: ' + 'Error: ' + error + '\n';
+	fs.appendFile('Log' + today +'.log', msg , function (err) {
+	  if (err) throw err;
+	  //console.log('Log saved!');
+	});
+	
+	msg='[' + new Date().toLocaleString() + ']' + ' ' + '[alert.js]: ' + 'Status code: ' + response && response.statusCode + '\n';
+	fs.appendFile('Log' + today +'.log', msg , function (err) {
+	  if (err) throw err;
+	  //console.log('Log saved!');
+	});	
 	
 	if(obj.nac_status[0].FSTATUS_EMAIL == 1)
 	{	

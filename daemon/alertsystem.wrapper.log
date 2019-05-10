@@ -1,0 +1,228 @@
+2019-05-07 16:07:53 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-07 16:07:53 - Started 18504
+2019-05-07 16:10:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-07 16:10:24 - Started 16108
+2019-05-07 16:11:27 - Stopping alertsystem.exe
+2019-05-07 16:11:27 - ProcessKill 16108
+2019-05-07 16:11:27 - Found child process: 5184 Name: conhost.exe
+2019-05-07 16:11:27 - Found child process: 18212 Name: node.exe
+2019-05-07 16:11:28 - Stopping process 5184
+2019-05-07 16:11:28 - Send SIGINT 5184
+2019-05-07 16:11:28 - SIGINT to 5184 failed - Killing as fallback
+2019-05-07 16:11:28 - Stopping process 18212
+2019-05-07 16:11:28 - Send SIGINT 18212
+2019-05-07 16:11:28 - SIGINT to 18212 failed - Killing as fallback
+2019-05-07 16:11:28 - Stopping process 16108
+2019-05-07 16:11:28 - Send SIGINT 16108
+2019-05-07 16:11:28 - SIGINT to 16108 failed - Killing as fallback
+2019-05-07 16:11:28 - Finished alertsystem.exe
+2019-05-07 16:11:30 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-07 16:11:30 - Started 652
+2019-05-07 16:12:53 - Stopping alertsystem.exe
+2019-05-07 16:12:53 - ProcessKill 652
+2019-05-07 16:12:53 - Found child process: 12676 Name: conhost.exe
+2019-05-07 16:12:53 - Found child process: 852 Name: node.exe
+2019-05-07 16:12:53 - Stopping process 12676
+2019-05-07 16:12:53 - Send SIGINT 12676
+2019-05-07 16:12:53 - SIGINT to 12676 failed - Killing as fallback
+2019-05-07 16:12:54 - Stopping process 852
+2019-05-07 16:12:54 - Send SIGINT 852
+2019-05-07 16:12:54 - SIGINT to 852 failed - Killing as fallback
+2019-05-07 16:12:54 - Stopping process 652
+2019-05-07 16:12:54 - Send SIGINT 652
+2019-05-07 16:12:54 - SIGINT to 652 failed - Killing as fallback
+2019-05-07 16:12:54 - Finished alertsystem.exe
+2019-05-07 16:12:56 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-07 16:12:56 - Started 18040
+2019-05-07 16:19:59 - Stopping alertsystem.exe
+2019-05-07 16:19:59 - ProcessKill 18040
+2019-05-07 16:19:59 - Found child process: 8600 Name: conhost.exe
+2019-05-07 16:19:59 - Found child process: 4588 Name: node.exe
+2019-05-07 16:19:59 - Stopping process 8600
+2019-05-07 16:19:59 - Send SIGINT 8600
+2019-05-07 16:20:00 - SIGINT to 8600 failed - Killing as fallback
+2019-05-07 16:20:00 - Stopping process 4588
+2019-05-07 16:20:00 - Send SIGINT 4588
+2019-05-07 16:20:00 - SIGINT to 4588 failed - Killing as fallback
+2019-05-07 16:20:00 - Stopping process 18040
+2019-05-07 16:20:00 - Send SIGINT 18040
+2019-05-07 16:20:00 - SIGINT to 18040 failed - Killing as fallback
+2019-05-07 16:20:00 - Finished alertsystem.exe
+2019-05-07 16:20:02 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-07 16:20:02 - Started 3720
+2019-05-07 16:21:14 - Stopping alertsystem.exe
+2019-05-07 16:21:14 - ProcessKill 3720
+2019-05-07 16:21:15 - Found child process: 3084 Name: conhost.exe
+2019-05-07 16:21:15 - Found child process: 20240 Name: node.exe
+2019-05-07 16:21:15 - Stopping process 3084
+2019-05-07 16:21:15 - Send SIGINT 3084
+2019-05-07 16:21:15 - SIGINT to 3084 failed - Killing as fallback
+2019-05-07 16:21:15 - Stopping process 20240
+2019-05-07 16:21:15 - Send SIGINT 20240
+2019-05-07 16:21:15 - SIGINT to 20240 failed - Killing as fallback
+2019-05-07 16:21:15 - Stopping process 3720
+2019-05-07 16:21:15 - Send SIGINT 3720
+2019-05-07 16:21:15 - SIGINT to 3720 failed - Killing as fallback
+2019-05-07 16:21:15 - Finished alertsystem.exe
+2019-05-07 16:21:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-07 16:21:52 - Started 17528
+2019-05-07 16:30:04 - Stopping alertsystem.exe
+2019-05-07 16:30:04 - ProcessKill 17528
+2019-05-07 16:30:05 - Found child process: 13052 Name: conhost.exe
+2019-05-07 16:30:05 - Found child process: 15772 Name: node.exe
+2019-05-07 16:30:05 - Stopping process 13052
+2019-05-07 16:30:05 - Send SIGINT 13052
+2019-05-07 16:30:05 - SIGINT to 13052 failed - Killing as fallback
+2019-05-07 16:30:05 - Stopping process 15772
+2019-05-07 16:30:05 - Send SIGINT 15772
+2019-05-07 16:30:05 - SIGINT to 15772 failed - Killing as fallback
+2019-05-07 16:30:05 - Stopping process 17528
+2019-05-07 16:30:05 - Send SIGINT 17528
+2019-05-07 16:30:05 - SIGINT to 17528 failed - Killing as fallback
+2019-05-07 16:30:05 - Finished alertsystem.exe
+2019-05-07 16:30:07 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-07 16:30:07 - Started 18504
+2019-05-07 16:36:25 - Stopping alertsystem.exe
+2019-05-07 16:36:25 - ProcessKill 18504
+2019-05-07 16:36:25 - Found child process: 15900 Name: conhost.exe
+2019-05-07 16:36:25 - Found child process: 19040 Name: node.exe
+2019-05-07 16:36:26 - Stopping process 15900
+2019-05-07 16:36:26 - Send SIGINT 15900
+2019-05-07 16:36:26 - SIGINT to 15900 failed - Killing as fallback
+2019-05-07 16:36:26 - Stopping process 19040
+2019-05-07 16:36:26 - Send SIGINT 19040
+2019-05-07 16:36:26 - SIGINT to 19040 failed - Killing as fallback
+2019-05-07 16:36:26 - Stopping process 18504
+2019-05-07 16:36:26 - Send SIGINT 18504
+2019-05-07 16:36:26 - SIGINT to 18504 failed - Killing as fallback
+2019-05-07 16:36:26 - Finished alertsystem.exe
+2019-05-07 16:36:28 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-07 16:36:28 - Started 10000
+2019-05-07 17:14:07 - Stopping alertsystem.exe
+2019-05-07 17:14:07 - ProcessKill 10000
+2019-05-07 17:14:07 - Found child process: 9616 Name: conhost.exe
+2019-05-07 17:14:07 - Found child process: 16324 Name: node.exe
+2019-05-07 17:14:07 - Stopping process 9616
+2019-05-07 17:14:07 - Send SIGINT 9616
+2019-05-07 17:14:07 - SIGINT to 9616 failed - Killing as fallback
+2019-05-07 17:14:08 - Stopping process 16324
+2019-05-07 17:14:08 - Send SIGINT 16324
+2019-05-07 17:14:08 - SIGINT to 16324 failed - Killing as fallback
+2019-05-07 17:14:08 - Stopping process 10000
+2019-05-07 17:14:08 - Send SIGINT 10000
+2019-05-07 17:14:08 - SIGINT to 10000 failed - Killing as fallback
+2019-05-07 17:14:08 - Finished alertsystem.exe
+2019-05-08 09:34:25 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-08 09:34:25 - Started 7560
+2019-05-08 09:35:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-08 09:35:53 - Started 10220
+2019-05-08 09:38:20 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-08 09:38:20 - Started 2412
+2019-05-08 09:54:06 - Stopping alertsystem.exe
+2019-05-08 09:54:06 - ProcessKill 2412
+2019-05-08 09:54:06 - Found child process: 5500 Name: conhost.exe
+2019-05-08 09:54:06 - Found child process: 19368 Name: node.exe
+2019-05-08 09:54:06 - Stopping process 5500
+2019-05-08 09:54:06 - Send SIGINT 5500
+2019-05-08 09:54:06 - SIGINT to 5500 failed - Killing as fallback
+2019-05-08 09:54:06 - Stopping process 19368
+2019-05-08 09:54:06 - Send SIGINT 19368
+2019-05-08 09:54:06 - SIGINT to 19368 failed - Killing as fallback
+2019-05-08 09:54:06 - Stopping process 2412
+2019-05-08 09:54:06 - Send SIGINT 2412
+2019-05-08 09:54:06 - SIGINT to 2412 failed - Killing as fallback
+2019-05-08 09:54:06 - Finished alertsystem.exe
+2019-05-08 10:07:58 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-08 10:07:58 - Started 8092
+2019-05-08 10:09:39 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-08 10:09:39 - Started 18640
+2019-05-08 10:10:28 - Stopping alertsystem.exe
+2019-05-08 10:10:28 - ProcessKill 18640
+2019-05-08 10:10:29 - Found child process: 7304 Name: conhost.exe
+2019-05-08 10:10:29 - Found child process: 11588 Name: node.exe
+2019-05-08 10:10:29 - Stopping process 7304
+2019-05-08 10:10:29 - Send SIGINT 7304
+2019-05-08 10:10:29 - SIGINT to 7304 failed - Killing as fallback
+2019-05-08 10:10:29 - Stopping process 11588
+2019-05-08 10:10:29 - Send SIGINT 11588
+2019-05-08 10:10:29 - SIGINT to 11588 failed - Killing as fallback
+2019-05-08 10:10:29 - Stopping process 18640
+2019-05-08 10:10:29 - Send SIGINT 18640
+2019-05-08 10:10:29 - SIGINT to 18640 failed - Killing as fallback
+2019-05-08 10:10:29 - Finished alertsystem.exe
+2019-05-08 10:10:32 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-08 10:10:32 - Started 2064
+2019-05-08 10:10:59 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-08 10:10:59 - Started 16588
+2019-05-08 10:12:57 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-08 10:12:57 - Started 8016
+2019-05-08 10:13:01 - Stopping alertsystem.exe
+2019-05-08 10:13:01 - ProcessKill 8016
+2019-05-08 10:13:01 - Found child process: 18284 Name: conhost.exe
+2019-05-08 10:13:01 - Found child process: 7232 Name: node.exe
+2019-05-08 10:13:02 - Stopping process 18284
+2019-05-08 10:13:02 - Send SIGINT 18284
+2019-05-08 10:13:02 - SIGINT to 18284 failed - Killing as fallback
+2019-05-08 10:13:02 - Stopping process 7232
+2019-05-08 10:13:02 - Send SIGINT 7232
+2019-05-08 10:13:02 - SIGINT to 7232 failed - Killing as fallback
+2019-05-08 10:13:02 - Stopping process 8016
+2019-05-08 10:13:02 - Send SIGINT 8016
+2019-05-08 10:13:02 - SIGINT to 8016 failed - Killing as fallback
+2019-05-08 10:13:02 - Finished alertsystem.exe
+2019-05-08 10:13:02 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-08 10:13:02 - Started 12968
+2019-05-08 10:13:35 - Stopping alertsystem.exe
+2019-05-08 10:13:35 - ProcessKill 12968
+2019-05-08 10:13:35 - Found child process: 16904 Name: conhost.exe
+2019-05-08 10:13:35 - Found child process: 8716 Name: node.exe
+2019-05-08 10:13:36 - Stopping process 16904
+2019-05-08 10:13:36 - Send SIGINT 16904
+2019-05-08 10:13:36 - SIGINT to 16904 failed - Killing as fallback
+2019-05-08 10:13:36 - Stopping process 8716
+2019-05-08 10:13:36 - Send SIGINT 8716
+2019-05-08 10:13:36 - SIGINT to 8716 failed - Killing as fallback
+2019-05-08 10:13:36 - Stopping process 12968
+2019-05-08 10:13:36 - Send SIGINT 12968
+2019-05-08 10:13:36 - SIGINT to 12968 failed - Killing as fallback
+2019-05-08 10:13:36 - Finished alertsystem.exe
+2019-05-08 10:15:35 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-08 10:15:36 - Started 5412
+2019-05-08 10:17:14 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-08 10:17:14 - Started 6372
+2019-05-08 10:19:59 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-08 10:19:59 - Started 8728
+2019-05-08 10:21:40 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-08 10:21:40 - Started 11572
+2019-05-08 10:37:57 - Stopping alertsystem.exe
+2019-05-08 10:37:57 - ProcessKill 11572
+2019-05-08 10:37:58 - Found child process: 13332 Name: conhost.exe
+2019-05-08 10:37:58 - Found child process: 6724 Name: node.exe
+2019-05-08 10:37:58 - Stopping process 13332
+2019-05-08 10:37:58 - Send SIGINT 13332
+2019-05-08 10:37:58 - SIGINT to 13332 failed - Killing as fallback
+2019-05-08 10:37:58 - Stopping process 6724
+2019-05-08 10:37:58 - Send SIGINT 6724
+2019-05-08 10:37:58 - SIGINT to 6724 failed - Killing as fallback
+2019-05-08 10:37:58 - Stopping process 11572
+2019-05-08 10:37:58 - Send SIGINT 11572
+2019-05-08 10:37:58 - SIGINT to 11572 failed - Killing as fallback
+2019-05-08 10:37:58 - Finished alertsystem.exe
+2019-05-08 10:38:32 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-08 10:38:32 - Started 7972
+2019-05-08 10:42:10 - Stopping alertsystem.exe
+2019-05-08 10:42:10 - ProcessKill 7972
+2019-05-08 10:42:11 - Found child process: 9432 Name: conhost.exe
+2019-05-08 10:42:11 - Found child process: 13560 Name: node.exe
+2019-05-08 10:42:11 - Stopping process 9432
+2019-05-08 10:42:11 - Send SIGINT 9432
+2019-05-08 10:42:11 - SIGINT to 9432 failed - Killing as fallback
+2019-05-08 10:42:11 - Stopping process 13560
+2019-05-08 10:42:11 - Send SIGINT 13560
+2019-05-08 10:42:11 - SIGINT to 13560 failed - Killing as fallback
+2019-05-08 10:42:11 - Stopping process 7972
+2019-05-08 10:42:11 - Send SIGINT 7972
+2019-05-08 10:42:11 - SIGINT to 7972 failed - Killing as fallback
+2019-05-08 10:42:11 - Finished alertsystem.exe
+2019-05-08 15:47:43 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Admin\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file D:\Github\NodeJS\alertsystem --log "AlertSystem wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-08 15:47:43 - Started 3900
