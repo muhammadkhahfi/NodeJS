@@ -1258,3 +1258,33 @@ Error: { Error: connect ECONNREFUSED 127.0.0.1:2323
   address: '127.0.0.1',
   port: 2323 }
 Status Code: undefined
+Send alert started...
+Request: http://localhost:2323/get_status_email_nac
+Error: { Error: connect ECONNREFUSED 127.0.0.1:2323
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 2323 }
+Status Code: undefined
+Send alert started...
+Request: http://localhost:2323/get_status_email_nac
+Error: { Error: connect ECONNREFUSED 127.0.0.1:2323
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 2323 }
+Status Code: undefined
+Send alert started...
+Request: http://localhost:2323/get_status_email_nac
+Error: { Error: connect ECONNREFUSED 127.0.0.1:2323
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 2323 }
+Status Code: undefined
