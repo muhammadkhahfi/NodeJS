@@ -1,5 +1,11 @@
 {
-	"name":"kahfi",
-	"colour":"red",
-	"country":"indonesia"
+	"AppName":"NAC Monitoring Alert System",
+	"AppVersion":"v1.0.0.0",	
+	"LogFilePath":"D:/NACMonitoringLog",
+	"BackDate":"2",	
+	"WebServer":"http://localhost:2323",
+	"GetStatusEmailURL":"get_status_email_nac",
+	"EmailChekNACStatusURL":"get_nac_status",
+	"EmailChekNACHostConnURL":"get_nac_host_conn",
+	"EmailChekNACTrxTimeoutURL":"get_nac_trx_timeout"	
 }
